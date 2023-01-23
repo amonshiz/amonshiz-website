@@ -12,3 +12,5 @@
 [4]:	./measuring_your_life
 [5]:	./managing_yourself
 [6]:  ./monkey_time_management
+
+<a rel="me" href="https://mastodon.social/@amonshiz">Mastodon</a>
