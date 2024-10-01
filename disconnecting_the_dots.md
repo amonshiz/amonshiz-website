@@ -4,7 +4,7 @@ date: 2022-08-17 22:20:00
 ---
 
 # Disconnecting the Dots
-I recently read [Disconnected][1]by [Jesse Squires][2]. That post really resonated with me, not because I too had recently gone on a technology break but because I dislike and am burned out by the constant need to “keep up to date”. That cycle is really painful to me.
+I recently read [Disconnected][1] by [Jesse Squires][2]. That post really resonated with me, not because I too had recently gone on a technology break but because I dislike and am burned out by the constant need to “keep up to date”. That cycle is really painful to me.
 
 I used to be excited about WWDC (Apple’s yearly developer conference), especially when I started learning iOS. Those were days where I had no experience and needed to gather as much as possible. Now, I still don’t know much but have more experience and recognize how little I know. So every year the amount I don’t know is emphasized by this conference, and then made worse. That sucks.
 
