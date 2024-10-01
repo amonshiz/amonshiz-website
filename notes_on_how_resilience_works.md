@@ -1,7 +1,7 @@
-—
+--—
 date: 2022-09-25 11:35:00
 title: Notes on How Resilience Works
-—
+—--
 
 # Notes on How Resilience Works
 - luck at the end: reminds me about “Learning to do science and engineering” in that being prepared and invested in learning can make sure you are ready to take advantage of luck when it arises
