@@ -1,7 +1,8 @@
 ---
-title: Review of An Elegant Puzzle: Systems of Engineering Management
+title: "Review of An Elegant Puzzle: Systems of Engineering Management"
 date: 2022-08-28 18:00:00
 ---
+
 # An Elegant Puzzle: Systems of Engineering Management
 I finished _An Elegant Puzzle: Systems of Engineering Management_ today. This is the girst time I'll be writng one of these reviews so the format and quality are likely to be lacking, but here goes. 
 
